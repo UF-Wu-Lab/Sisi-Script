@@ -1,0 +1,1 @@
+rsync -chavzP --stats sisi.chen@ceres.scinet.usda.gov:/project/gbru_hydrangea/gbru_hydrangea/sisi.chen/00.project/04.hibiscus/00.data/assembly_V2/purge_dup_hifi/R2/purged.fa /project/gbru_hydrangea/sisi.chen/project/01.hibiscus/01.asm/assembly_V2_purge/brilliant_p.fa
